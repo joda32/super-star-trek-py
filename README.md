@@ -19,7 +19,7 @@
 
 > *"Space: the final frontier..."*
 
-A faithful Python translation of the classic 1978 BASIC text adventure, rebuilt with a full-colour three-panel terminal UI using `curses`.  
+A faithful (with some creative curses additions) Python translation of the classic 1978 BASIC text adventure, rebuilt with a full-colour three-panel terminal UI using `curses`.  
 **Python translation by [@joda32](https://github.com/joda32)**
 
 ---
